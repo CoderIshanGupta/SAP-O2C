@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>O2C Result</title>
+</head>
+<body>
+    <h2>Process Execution Result</h2>
+
+    <ul>
+        {% for step in steps %}
+        <li>{{ step }}</li>
+        {% endfor %}
+    </ul>
+
+    <a href="/">Run Again</a>
+</body>
+</html>
