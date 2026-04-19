@@ -112,7 +112,7 @@ http://127.0.0.1:5000/
 
 ## Visual Preview  
 ![O2C Input Screen](assets/O2C_Input_Screen.png)
-![Process Flow](assets/Process-Flow.png) 
+![Process Flow](assets/Process-flow.png) 
 
 ---
 
