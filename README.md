@@ -4,9 +4,7 @@
 
 A complete SAP-inspired project that simulates the Order-to-Cash (O2C) business process using a web application. The system mimics real SAP document flow, validates stock (ATP), performs transaction steps, and demonstrates financial postings with an interactive UI.
 
----
 
-## Badges  
 Python • Flask • SAP SD • SAP FI • Web App
 
 ---
