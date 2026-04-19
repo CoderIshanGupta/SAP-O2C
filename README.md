@@ -78,13 +78,6 @@ sap-o2c-final/
 
 ---
 
-## Demo Experience  
-- Simple UI  
-- One-click execution  
-- Clean SAP-like output  
-
----
-
 ## Quick Start  
 
 ### Install Dependencies  
@@ -118,7 +111,8 @@ http://127.0.0.1:5000/
 ---
 
 ## Visual Preview  
-(Add screenshots here)  
+![O2C Input Screen](assets/O2C_Input_Screen.png)
+![Process Flow](assets/Process-Flow.png) 
 
 ---
 
@@ -148,9 +142,6 @@ Accounting:
 ---
 
 ## Project Report  
-
-Available in:  
-- PROJECT_REPORT.docx  
 - PROJECT_REPORT.pdf  
 
 ---
