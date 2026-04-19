@@ -1,0 +1,15 @@
+{
+  "customers": [
+    {
+      "id": "CUST1001",
+      "name": "Bright Electronics"
+    }
+  ],
+  "materials": [
+    {
+      "id": "LED-TV-1000",
+      "stock": 500,
+      "price": 25000
+    }
+  ]
+}
