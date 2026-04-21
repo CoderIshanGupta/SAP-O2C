@@ -147,5 +147,4 @@ Accounting:
 
 ## Author  
 
-Ishan Gupta
-2306116
+Ishan Gupta (2306116)
