@@ -131,18 +131,8 @@ Accounting:
 
 ---
 
-## Why This Project Stands Out  
-
-- Combines SAP functional + technical concepts  
-- Demonstrates real business process  
-- Includes working web app  
-- Covers SD, MM, FI integration  
-- Strong for resume + viva  
-
----
-
 ## Project Report  
-- PROJECT_REPORT.pdf  
+- [PROJECT_REPORT.pdf](PROJECT_REPORT.pdf) 
 
 ---
 
